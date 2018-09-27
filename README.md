@@ -3,6 +3,16 @@ _Conoce más de nuestros proyectos en [Peter Vargas](https://petervargas.com):_
 
 Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Proveedores de Servicio de Internet - ISP
 
+## Estados Unidos - EEUU
+* [Facebook](#Facebook)
+* [Google](#Google)
+* [Twitter](#Twitter)
+* [Hotmail](#Hotmail)
+* [Yahoo](#Yahoo)
+* [Gmail](#Google)
+* [Youtube](#Google)
+* [Instagram](#Facebook)
+
 ## Latinoamérica
 
 * [Colombia](#Colombia)
