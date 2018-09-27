@@ -33,26 +33,55 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 
 ## Facebook e Instagram
 
-  - Plataforma de Requerimientos Judiciales de la Red Social Facebook, https://www.facebook.com/records
+  - Plataforma de Requerimientos Judiciales de la Red Social Facebook e Instagram se realizan por la dirección de enlace https://www.facebook.com/records
   - La red social solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
   - Esta plataforma permite realizar solicitud de preservación de información.
   - Esta plataforma permite realizar solicitud de información.
   - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Facebook
-
 -------------
 <p id="Google">
 
-## Google, Gmail y Youtube
+## Google, Gmail, Youtube, Google+, y demás productos de Google.
 
-#### Marco Jurídico
-
-  - Plataforma de Requerimientos Judiciales de la Red Social Facebook, https://www.facebook.com/records
-  - La red social solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
+  - Canal Requerimientos Judiciales de la Google, Gmail, Yahoo, Google+, y demás productos de Google, se encuentra disponible el correo electrónico lis-global@google.com
+  - Google solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
   - Esta plataforma permite realizar solicitud de preservación de información.
   - Esta plataforma permite realizar solicitud de información.
-  - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Facebook
+  - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Google
+-------------
+<p id="Twitter">
 
-#### Marco Teórico
+## Twitter
+
+  - Canal Requerimientos Judiciales de Twitter, se encuentra disponible el correo electrónico lawenforcement@twitter.com
+  - Twitter solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
+  - Esta plataforma permite realizar solicitud de preservación de información.
+  - Esta plataforma permite realizar solicitud de información.
+  - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Twitter
+-------------
+<p id="Hotmail">
+
+## Hotmail
+
+  - Canal Requerimientos Judiciales de Hotmail, se encuentra disponible el correo electrónico asklcala@hotmail.com
+  - Hotmail solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
+  - Esta plataforma permite realizar solicitud de preservación de información.
+  - Esta plataforma permite realizar solicitud de información.
+  - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Hotmail
+-------------
+<p id="Yahoo">
+
+## Yahoo
+
+  - Canal Requerimientos Judiciales de Hotmail, se encuentra disponible el fax 408 349-7941 (Estados Unidos)
+  - Yahoo solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
+  - Esta plataforma permite realizar solicitud de preservación de información.
+  - Esta plataforma permite realizar solicitud de información.
+  - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Yahoo
+-------------
+<p id="Colombia">
+	
+## Colombia
 
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
