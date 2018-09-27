@@ -29,14 +29,28 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 Este proyecto está en progreso, si tienes normatividad que no está acá, nos puedes informar en peter.vargasg@gmail.com.
 
 -------------
-<p id="Colombia">
+<p id="Facebook">
 
-## Colombia
+## Facebook e Instagram
+
+  - Plataforma de Requerimientos Judiciales de la Red Social Facebook, https://www.facebook.com/records
+  - La red social solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
+  - Esta plataforma permite realizar solicitud de preservación de información.
+  - Esta plataforma permite realizar solicitud de información.
+  - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Facebook
+
+-------------
+<p id="Google">
+
+## Google, Gmail y Youtube
 
 #### Marco Jurídico
 
-  - Ley 1273 de 2009 - Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos - y se preservan integralmente los sistemas que utilicen las tecnologías de la información y las comunicaciones, entre otras disposiciones.
-  - Ley 1336 de 2009 - Por medio de la cual se adiciona y robustece la Ley 679 de 2001, de lucha contra la explotación, la pornografía y el turismo sexual con niños, niñas y adolescentes.
+  - Plataforma de Requerimientos Judiciales de la Red Social Facebook, https://www.facebook.com/records
+  - La red social solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
+  - Esta plataforma permite realizar solicitud de preservación de información.
+  - Esta plataforma permite realizar solicitud de información.
+  - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Facebook
 
 #### Marco Teórico
 
@@ -46,47 +60,23 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 	
 ## Argentina
 
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
-
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Uruguay">
 	
 ## Uruguay
 
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
+ - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Chile">
 	
 ## Chile
 
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
+ - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Mexico">
 	
 ## México
-
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
 
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
@@ -94,23 +84,11 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 	
 ## Ecuador
 
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
-
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Peru">
 
 ## Perú
-
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
 
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
@@ -118,34 +96,16 @@ Este proyecto está en progreso, si tienes normatividad que no está acá, nos p
 	
 ## Paraguay
 
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
-
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Panama">
 	
 ## Panamá
 
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
-
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
 -------------
 <p id="Venezuela">
 	
 ## Venezuela
-
-#### Marco Jurídico
-
-  - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-#### Marco Teórico
 
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
