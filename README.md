@@ -26,7 +26,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Panamá](#Panama)
 * [Venezuela](#Venezuela)
 
-Este proyecto está en progreso, si tienes normatividad que no está acá, nos puedes informar en peter.vargasg@gmail.com.
+Este proyecto está en progreso, si tienes redes sociales, empresas de correo electrónico y Proveedores de Servicio de Internet - ISP que no están acá, nos puedes informar en peter.vargasg@gmail.com.
 
 -------------
 <p id="Facebook">
