@@ -15,16 +15,34 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 
 ## Latinoamérica
 
-## [Colombia](#Colombia)
+## Colombia
 * [Efecty](#Efecty)
+
+## Argentina
 * [Argentina](#Argentina)
+
+## Uruguay
 * [Uruguay](#Uruguay)
+
+## Chile
 * [Chile](#Chile)
+
+## México
 * [México](#Mexico)
+
+## Ecuador
 * [Ecuador](#Ecuador)
+
+## Perú
 * [Perú](#Peru)
+
+## Paraguay
 * [Paraguay](#Paraguay)
+
+## Panamá
 * [Panamá](#Panama)
+
+## Venezuela
 * [Venezuela](#Venezuela)
 
 Este proyecto está en progreso, si tienes redes sociales, empresas de correo electrónico y Proveedores de Servicio de Internet - ISP que no están acá, nos puedes informar en peter.vargasg@gmail.com.
