@@ -15,7 +15,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 
 ## Latinoamérica
 
-* [Colombia](#Colombia)
+## [Colombia](#Colombia)
 * [Efecty](#Efecty)
 * [Argentina](#Argentina)
 * [Uruguay](#Uruguay)
