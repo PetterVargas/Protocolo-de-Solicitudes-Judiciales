@@ -16,6 +16,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 ## Latinoamérica
 
 * [Colombia](#Colombia)
+* [Efecty](#Efecty)
 * [Argentina](#Argentina)
 * [Uruguay](#Uruguay)
 * [Chile](#Chile)
@@ -84,6 +85,12 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 ## Colombia
 
   - Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
+-------------
+<p id="Efecty">
+	
+## Efecty
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de Giros de Efecty <b>requerimientos.judiciales@efecty.com.co</b>
 -------------
 <p id="Argentina">
 	
