@@ -22,6 +22,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Efecty](#Efecty)
 * [Tigo](#Tigo)
 * [Movistar](#Movistar)
+* [Virgin](#Virgin)
 * [OLX](#OLX)
 * [Banco Agrario](#BancoAgrario)
 
@@ -140,6 +141,12 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 ## Banco Agrario
 
   - Correo electrónico para realizar requerimientos judiciales de del Banco Agrario <b>sandrah.naranjo@bancoagrario.gov.co</b>
+-------------
+<p id="Virgin">
+	
+## Virgin Mobile
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Virgin Moble <b>servicioalcliente@virginmobilecolombia.com</b>
 -------------
 <p id="Argentina">
 	
