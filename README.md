@@ -121,7 +121,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 	
 ## Tigo
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Tigo <b>auxiliar.operativo8@tigoune.com</b>
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Tigo <b>radicacionexterna2@tigoune.com</b> y <b>auxiliar.operativo8@tigoune.com</b>
 -------------
 <p id="Movistar">
 	
