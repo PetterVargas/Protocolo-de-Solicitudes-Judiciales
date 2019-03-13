@@ -7,16 +7,23 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Facebook](#Facebook)
 * [Google](#Google)
 * [Twitter](#Twitter)
-* [Hotmail](#Hotmail)
+* [Hotmail](#Microsoft)
 * [Yahoo](#Yahoo)
 * [Gmail](#Google)
 * [Youtube](#Google)
 * [Instagram](#Facebook)
+* [Microsoft](#Microsoft)
+* [Skype](#Microsoft)
+* [Github](#Microsoft)
 
 ## Latinoamérica
 
 ## Colombia
 * [Efecty](#Efecty)
+* [Tigo](#Tigo)
+* [Movistar](#Movistar)
+* [OLX](#OLX)
+* [Banco Agrario](#BancoAgrario)
 
 ## Argentina
 * Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
@@ -78,9 +85,9 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
   - Esta plataforma permite realizar solicitud de información.
   - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Twitter
 -------------
-<p id="Hotmail">
+<p id="Microsoft">
 
-## Hotmail
+## Microsoft - Skype - Github
 
   - Canal Requerimientos Judiciales de Hotmail, se encuentra disponible el correo electrónico asklcala@hotmail.com
   - Hotmail solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
@@ -109,6 +116,30 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 ## Efecty
 
   - Correo electrónico para realizar requerimientos judiciales de la empresa de Giros de Efecty <b>requerimientos.judiciales@efecty.com.co</b>
+-------------
+<p id="Tigo">
+	
+## Tigo
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Tigo <b>auxiliar.operativo8@tigoune.com</b>
+-------------
+<p id="Movistar">
+	
+## Movistar
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Movistar <b>requerimientos.judiciales.co@telefonica.com</b>
+-------------
+<p id="Tigo">
+	
+## OLX
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa OLX <b>support@olx.com</b>
+-------------
+<p id="BancoAgrario">
+	
+## Banco Agrario
+
+  - Correo electrónico para realizar requerimientos judiciales de del Banco Agrario <b>sandrah.naranjo@bancoagrario.gov.co</b>
 -------------
 <p id="Argentina">
 	
