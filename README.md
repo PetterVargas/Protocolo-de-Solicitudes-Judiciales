@@ -25,6 +25,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Virgin](#Virgin)
 * [OLX](#OLX)
 * [Banco Agrario](#BancoAgrario)
+* [Tarjeta de Crédito Éxito - Tuya](#Tuya)
 
 ## Argentina
 * Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
@@ -147,6 +148,12 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 ## Virgin Mobile
 
   - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Virgin Moble <b>servicioalcliente@virginmobilecolombia.com</b>
+-------------
+<p id="Tuya">
+	
+## Tarjeta de Crédito Éxito - Tuya
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de Tarjeta de Crédito Éxito - Tuya <b>jcorreal@tuya.com.co</b>
 -------------
 <p id="Argentina">
 	
