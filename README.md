@@ -17,6 +17,11 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Microsoft](#Microsoft)
 * [Skype](#Microsoft)
 * [Github](#Microsoft)
+* [Dropbox](#Dropbox)
+* [eBay](#eBay)
+* [Paypal](#Paypal)
+* [Netflix](#Netflix)
+* [Uber](#Uber)
 
 ## Latinoamérica
 
@@ -62,7 +67,8 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 
 ## Google, Gmail, Youtube, Google+, y demás productos de Google.
 
-  - Canal Requerimientos Judiciales de la Google, Gmail, Yahoo, Google+, y demás productos de Google, se encuentra disponible el correo electrónico lis-global@google.com
+  - Canal Requerimientos Judiciales de la Google, Gmail, Yahoo, Google+, y demás productos de Google, se encuentra disponible el correo electrónico <b>uslawenforcement@google.com</b>, <b>lis-global@google.com</b> y <b>googlepayments@google.com</b> y el teléfono <b>(844)383-8524 - (650)417-9011</b>
+  - Solicitudes solo de emergencia <b>emergencyrecords@google.com</b>
   - Google solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
   - Esta plataforma permite realizar solicitud de preservación de información.
   - Esta plataforma permite realizar solicitud de información.
@@ -101,12 +107,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
   - Counterfeit Prevention (Hardware) email: counterfeit@apple.com
   - For follow-up questions regarding subpoenas or search warrants already submitted, you may email your questions to subpoenas@apple.com.
   - For cases of apparent fraud occurring at any physical Apple Retail Store location, please contact the Apple Retail Loss Prevention Team by emailing lossprevention@apple.com.
-  - If your request is related to iTunes, iCloud, or is in regard to specific device user/registration information, please direct these requests in the form of a legal process to the following, location:
-  Apple Inc, Litigation Services
-  ATTN: Stan Flemister and Charstie Wheelock
-  1 Infinite Loop, M/S 36-SU
-  Cupertino, CA 95014
-  Fax Number: 408-974-9316
+  - If your request is related to iTunes, iCloud, or is in regard to specific device user/registration information, please direct these requests in the form of a legal process to the following, location: Apple Inc, Litigation Services ATTN: Stan Flemister and Charstie Wheelock 1 Infinite Loop, M/S 36-SU Cupertino, CA 95014 Fax Number: 408-974-9316
 -------------
 <p id="Microsoft">
 
@@ -122,11 +123,45 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 
 ## Yahoo
 
-  - Canal Requerimientos Judiciales de Hotmail, se encuentra disponible el fax 408 349-7941 (Estados Unidos)
+  - Canal Requerimientos Judiciales de Yahoo, se encuentra disponible el fax 408 349-7941 (Estados Unidos)
   - Yahoo solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
   - Esta plataforma permite realizar solicitud de preservación de información.
   - Esta plataforma permite realizar solicitud de información.
   - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Yahoo
+-------------
+<p id="Dropbox">
+
+## Dropbox
+
+  - Canal Requerimientos Judiciales de Dropbox, se encuentra disponible el correo electrónico Legalcompliance@dropbox.com
+  - Guía para requerimientos judiciales https://dl.dropboxusercontent.com/s/chy2h514ht8j2hz/Dropbox%20Law%20Enforcement%20Handbook.pdf?dl=0
+-------------
+<p id="eBay">
+
+## eBay
+
+  - Canal Requerimientos Judiciales de eBay, se encuentra disponible el correo electrónico stopfraud@ebay.com
+  - Guía para requerimientos judiciales https://dl.dropboxusercontent.com/s/chy2h514ht8j2hz/Dropbox%20Law%20Enforcement%20Handbook.pdf?dl=0
+-------------
+<p id="Paypal">
+
+## Paypal
+
+  - Canal Requerimientos Judiciales de Paypal, se encuentra disponible el correo electrónico lawenforcement@paypal.com
+-------------
+<p id="Netflix">
+
+## Netflix
+
+  - Canal Requerimientos Judiciales de Netflix, se encuentra disponible el correo electrónico legalprocess@netflix.com
+-------------
+<p id="Uber">
+
+## Uber
+
+  - Canal Requerimientos Judiciales de Uber, se encuentra disponible Law Enforcement Portal: https://lert.uber.com
+  - Guía de requerimientos judiciales https://www.uber.com/legal/data-requests/guidelines-for-law-enforcement/us/
+  - Reporte de tarjetas de crédito relacionadas con fraudes https://help.uber.com/h/fe547761-4384-42d4-8531-4cfb0e0e523e
 -------------
 <p id="Colombia">
 	
