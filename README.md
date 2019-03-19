@@ -130,7 +130,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 -------------
 <p id="Claro">
 	
-## Efecty
+## Claro
 
   - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Claro <b>peticionesjudiciales@claro.com.co</b>
 -------------
