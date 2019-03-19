@@ -22,6 +22,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Paypal](#Paypal)
 * [Netflix](#Netflix)
 * [Uber](#Uber)
+* [Oracle](#Oracle)
 
 ## Latinoamérica
 
@@ -153,7 +154,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 
 ## Netflix
 
-  - Canal Requerimientos Judiciales de Netflix, se encuentra disponible el correo electrónico legalprocess@netflix.com
+  - Canal Requerimientos Judiciales de Netflix, se encuentra disponible el correo electrónico <b>legalprocess@netflix.com</b>
 -------------
 <p id="Uber">
 
@@ -162,6 +163,12 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
   - Canal Requerimientos Judiciales de Uber, se encuentra disponible Law Enforcement Portal: https://lert.uber.com
   - Guía de requerimientos judiciales https://www.uber.com/legal/data-requests/guidelines-for-law-enforcement/us/
   - Reporte de tarjetas de crédito relacionadas con fraudes https://help.uber.com/h/fe547761-4384-42d4-8531-4cfb0e0e523e
+-------------
+<p id="Oracle">
+
+## Oracle
+
+  - Canal Requerimientos Judiciales de Oracle, se encuentra disponible el correo <b>contacto-load_co@oracle.com</b>
 -------------
 <p id="Colombia">
 	
