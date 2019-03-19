@@ -13,6 +13,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Youtube](#Google)
 * [Instagram](#Facebook)
 * [Amazon](#Amazon)
+* [Apple](#Apple)
 * [Microsoft](#Microsoft)
 * [Skype](#Microsoft)
 * [Github](#Microsoft)
@@ -81,7 +82,60 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 
 ## Amazon
 
-  - Canal Requerimientos Judiciales de Hotmail, se encuentra disponible el correo electrónico subpoena-criminal@amazon.com
+  - Canal Requerimientos Judiciales de Amazon, se encuentra disponible el correo electrónico <b>subpoena-criminal@amazon.com</b>
+-------------
+<p id="Apple">
+
+## Apple
+
+  - Canal Requerimientos Judiciales de Apple, se encuentra disponible el correo electrónico <b>subpoenas@apple.com</b> y <b>exigent@apple.com</b>, teléfono <b>408-974-2095  /  (408) 974-2095</b>
+  - Guía de requerimientos judiciales http://www.apple.com/legal/privacy/law-enforcement-guidelines-us.pdf
+  - Requerimientos específicos para Apple:
+
+Law Enforcement Assistance
+email: lawenforcement@apple.com
+
+Litigation
+email: litigation@apple.com
+phone 408-974-7901
+
+Apple Product Security
+email: product-security@apple.com 
+
+Trademark Department
+email: appletm@apple.com
+phone 408-974-6638
+
+Copyright
+email: copyright@apple.com
+phone 408-974-2205
+
+Claims of Copyright Infringement
+email: copyrightagent@apple.com.
+phone 408-974-9994
+fax 408-253-0186
+
+Intellectual Property/Patents
+email: iplaw@apple.com
+
+Piracy Prevention (Software)
+email: piracy@apple.com
+
+Counterfeit Prevention (Hardware)
+email: counterfeit@apple.com
+
+For follow-up questions regarding subpoenas or search warrants already submitted, you may email your questions to subpoenas@apple.com.
+
+For cases of apparent fraud occurring at any physical Apple Retail Store location, please contact the Apple Retail Loss Prevention Team by emailing lossprevention@apple.com.
+
+If your request is related to iTunes, iCloud, or is in regard to specific device user/registration information, please direct these requests in the form of a legal process to the following
+location:
+
+Apple Inc, Litigation Services
+ATTN: Stan Flemister and Charstie Wheelock
+1 Infinite Loop, M/S 36-SU
+Cupertino, CA 95014
+Fax Number: 408-974-9316
 -------------
 <p id="Microsoft">
 
