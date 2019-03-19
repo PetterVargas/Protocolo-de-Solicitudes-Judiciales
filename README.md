@@ -96,6 +96,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 
 ## Twitter
 
+  - Canal Requerimientos Judiciales de Twitter, se encuentra disponible el correo electrónico https://legalrequests.twitter.com/forms/landing_disclaimer
   - Canal Requerimientos Judiciales de Twitter, se encuentra disponible el correo electrónico lawenforcement@twitter.com
   - Twitter solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
   - Esta plataforma permite realizar solicitud de preservación de información.
