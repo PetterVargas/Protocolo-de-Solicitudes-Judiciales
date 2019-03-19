@@ -42,35 +42,9 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Comfamiliar](#Comfamiliar)
 * [Centro de Servicos Judiciales de Pereira](#CentroServiciosJudicialesPereira)
 
-## Argentina
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## Uruguay
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## Chile
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## México
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## Ecuador
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## Perú
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## Paraguay
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## Panamá
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
-## Venezuela
-* Si conoce alguno agradecemos la información a peter.vargasg@gmail.com.
-
 Este proyecto está en progreso, si tienes redes sociales, empresas de correo electrónico y Proveedores de Servicio de Internet - ISP que no están acá, nos puedes informar en peter.vargasg@gmail.com.
 
+## Estados Unidos - EEUU
 -------------
 <p id="Facebook">
 
