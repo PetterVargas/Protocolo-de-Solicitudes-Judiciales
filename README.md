@@ -256,7 +256,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 -------------
 <p id="CentroServiciosJudicialesPereira">
 	
-## Comfamiliar
+## Centro de Servicios Judiciales de Pereira
 
   - Correo electrónico para realizar requerimientos judiciales al Centro de Servicios Judiciales de Pereira <b>centrodeserviciosadmejecpenas@gmail.com</b> y teléfono <b>+036 7448858</b> y <b>+036 7442942</b>
 -------------
