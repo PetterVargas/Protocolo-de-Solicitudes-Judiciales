@@ -12,6 +12,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Gmail](#Google)
 * [Youtube](#Google)
 * [Instagram](#Facebook)
+* [Amazon](#Amazon)
 * [Microsoft](#Microsoft)
 * [Skype](#Microsoft)
 * [Github](#Microsoft)
@@ -75,6 +76,12 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
   - Esta plataforma permite realizar solicitud de preservación de información.
   - Esta plataforma permite realizar solicitud de información.
   - Para conocer los formatos y soportes judiciales necesarios, visítanos en /Twitter
+-------------
+<p id="Amazon">
+
+## Amazon
+
+  - Canal Requerimientos Judiciales de Hotmail, se encuentra disponible el correo electrónico subpoena-criminal@amazon.com
 -------------
 <p id="Microsoft">
 
