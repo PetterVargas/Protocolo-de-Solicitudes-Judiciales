@@ -34,6 +34,8 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Movistar - Telefónica](#Movistar)
 * [Virgin](#Virgin)
 * [Uff Movile](#UFF)
+* [ETB](#ETB)
+* [Avantel](#Avantel)
 * [OLX](#OLX)
 * [Servientrega](#Servientrega)
 * [Banco Bancolombia](#Bancolombia)
@@ -192,7 +194,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 	
 ## Tigo
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Tigo <b>radicacionexterna2@tigoune.com</b> y <b>auxiliar.operativo8@tigoune.com</b>
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Tigo <b>notificacionesjudiciales@tigoune.com</b>, <b>radicacionexterna2@tigoune.com</b> y <b>auxiliar.operativo8@tigoune.com</b>
 -------------
 <p id="UNE">
 	
@@ -258,7 +260,19 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 	
 ## Virgin Mobile
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Virgin Moble <b>servicioalcliente@virginmobilecolombia.com</b>
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Virgin Moble <b>servicioalcliente@virginmobilecolombia.com</b> y <b>soporte@virginmobile.mx</b>
+-------------
+<p id="ETB">
+	
+## ETB
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones ETB <b>andrea.lopezl@etb.com.co</b>
+-------------
+<p id="Avantel">
+	
+## Avantel
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Avantel <b>contactenos@avantel.com.co</b>
 -------------
 <p id="Tuya">
 	
