@@ -260,7 +260,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 	
 ## Virgin Mobile
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Virgin Moble <b>servicioalcliente@virginmobilecolombia.com</b> y <b>soporte@virginmobile.mx</b>
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Virgin Moble <b>judicial@virginmobilecolombia.com</b>, <b>servicioalcliente@virginmobilecolombia.com</b> y <b>soporte@virginmobile.mx</b>
 -------------
 <p id="ETB">
 	
