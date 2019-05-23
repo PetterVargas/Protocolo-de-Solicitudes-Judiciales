@@ -35,6 +35,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Virgin](#Virgin)
 * [Uff Movile](#UFF)
 * [ETB](#ETB)
+* [Flash Mobile](#Flash)
 * [Avantel](#Avantel)
 * [OLX](#OLX)
 * [Servientrega](#Servientrega)
@@ -267,6 +268,12 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 ## ETB
 
   - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones ETB <b>andrea.lopezl@etb.com.co</b> y <b>asuntos.contenciosos@etb.com.co</b>
+-------------
+<p id="Flash">
+	
+## Flash Mobile
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Flash Mobile <b>soporte.bl@flashservicios.co</b>
 -------------
 <p id="Avantel">
 	
