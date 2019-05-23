@@ -266,7 +266,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 	
 ## ETB
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones ETB <b>andrea.lopezl@etb.com.co</b>
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones ETB <b>andrea.lopezl@etb.com.co</b> y <b>asuntos.contenciosos@etb.com.co</b>
 -------------
 <p id="Avantel">
 	
