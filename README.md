@@ -4,6 +4,7 @@ _Conoce más de nuestros proyectos en [Peter Vargas](https://petervargas.com):_
 Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Proveedores de Servicio de Internet - ISP. Para adelantar cualquier trámite es necesaria la orden de autoridad competente, en Colombia, se requiere orden de la <b>Fiscalía General de la Nación</b>, autorización por parte de <b>Juez con Funciones de Control de Garantías (Búsqueda Selectiva en Base de Datos)</b> y <b>comunicación oficial suscrita por un funcionario de Policía Judicial</b>, todos los documentos anteriormente descritos deben estar firmados, escaneados y estar adjuntos a la solicitud.
 
 ## Estados Unidos - EEUU
+* [Whatsapp](#Whatsapp)
 * [Facebook](#Facebook)
 * [Google](#Google)
 * [Twitter](#Twitter)
@@ -56,6 +57,16 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 Este proyecto está en progreso, si tienes redes sociales, empresas de correo electrónico y Proveedores de Servicio de Internet - ISP que no están acá, nos puedes informar en peter.vargasg@gmail.com.
 
 ## Estados Unidos - EEUU
+-------------
+<p id="Whatsapp">
+
+## Whatsapp
+
+  - Canal Requerimientos Judiciales de la Whatsapp se encuentra disponible el correo electrónico <b>WhatsAppLEC@subpoenasolutions.com</b>.
+  - Solicitud dirigida a WhatsApp Inc, 1601 Willow Road, Menlo Park, California 94025, United States of América.
+  - Whatsapp solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro).
+  - Esta plataforma permite realizar solicitud de preservación de información.
+  - Esta plataforma permite realizar solicitud de información.
 -------------
 <p id="Facebook">
 
