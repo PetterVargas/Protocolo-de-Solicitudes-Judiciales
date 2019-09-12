@@ -47,6 +47,11 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Banco Citi](#BancoCiti)
 * [Tarjeta de Crédito Éxito - Tuya](#Tuya)
 * [Grupo Éxito](#GrupoExito)
+* [Moviired](#Moviired)
+* [Western Union - Giros y Finanzas - Acciones y Valores ](#WesternUnion)
+* [Grupo Matrix](#GrupoMatrix)
+* [Súper Giros](#SuperGiros)
+* [4-72](#472)
 * [Redeban Multicolor](#RedebanMulticolor)
 * [EPS Coomeva](#Coomeva)
 * [EPS Sura](#EPSSura)
@@ -200,7 +205,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 	
 ## Efecty
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de Giros de Efecty <b>requerimientos.judiciales@efecty.com.co</b>
+  - Correo electrónico para realizar requerimientos judiciales de la empresa de Giros de Efecty <b>requerimientos.judiciales@efecty.com.co</b> y <b>alejandro.martinez@efecty.com.co</b>
 -------------
 <p id="Tigo">
 	
@@ -303,6 +308,36 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 ## Grupo Éxito
 
   - Correo electrónico para realizar requerimientos judiciales de la empresa Grupo Éxito <b>Servicioalclienteexito@grupo-exito.com</b>
+-------------
+<p id="Moviired">
+	
+## Moviired
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa Moviired <b>camila.baquero@moviired.co</b>
+-------------
+<p id="WesternUnion">
+	
+## Western Union - Giros y Finanzas - Acciones y Valores
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa Western Union - Giros y Finanzas - Acciones y Valores <b>contacto@girosyfinanzas.com</b> y <b>richard.maca@girosyfinanzas.com</b> y <b>servicioalcliente@accivalores.com</b>
+-------------
+<p id="GrupoMatrix">
+	
+## Grupo Matrix
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa Grupo Matrix <b>coordinacion.servicioalcliente@grupomatrix.co</b> y <b>(+57)(1)7431414</b> y <b>(+57) 3213005339</b> y <b>(+57) 3105794619</b> y <b>#596</b>
+-------------
+<p id="SuperGiros">
+	
+## Súper Giros
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa Súper Giros <b>callcenter@supergiros.com.co</b>
+-------------
+<p id="472">
+	
+## 4-72
+
+  - Correo electrónico para realizar requerimientos judiciales de la empresa 4-72 <b>servicioalcliente@4-72.com.co</b> y <b>fernando.salgado@4-72.com.co</b> y <b>(+57)(1)4722005 Ext. 1816</b>
 -------------
 <p id="RedebanMulticolor">
 	
