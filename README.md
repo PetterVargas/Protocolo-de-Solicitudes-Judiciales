@@ -210,92 +210,92 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 -------------
 <p id="Efecty">
 	
-## Efecty
+### Efecty
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de Giros de Efecty <b>requerimientos.judiciales@efecty.com.co</b> y <b>alejandro.martinez@efecty.com.co</b>
+  - Correo electrónico <b>requerimientos.judiciales@efecty.com.co</b> y <b>alejandro.martinez@efecty.com.co</b>
 -------------
 <p id="Tigo">
 	
-## Tigo
+### Tigo
 
   - Correo electrónico <b>notificacionesjudiciales@tigoune.com</b>, <b>radicacionexterna2@tigoune.com</b> y <b>auxiliar.operativo8@tigoune.com</b>.
   - Dirección Cra. 48 #20-114 Bogotá D.C.
 -------------
 <p id="UNE">
 	
-## UNE
+### UNE
 
   - Correo electrónico <b>notificacionesjudiciales@une.com.co</b>
 -------------
 <p id="Movistar">
 	
-## Movistar - Telefónica
+### Movistar - Telefónica
 
   - Correo electrónico <b>requerimientos.judiciales.co@telefonica.com</b> y <b>servicioenlinea.co@telefonica.com</b>
 -------------
 <p id="UFF">
 	
-## Uff Movile
+### Uff Movile
 
   - Correo electrónico <b>experiencia.cliente@uffmovil.com</b>
 -------------
 <p id="Tigo">
 	
-## OLX
+### OLX
 
   - Correo electrónico <b>support@olx.com</b>
 -------------
 <p id="Servientrega">
 	
-## Servientrega
+### Servientrega
 
   - Correo electrónico <b>servicioalcliente@servientrega.com</b>
 -------------
 <p id="Bancolombia">
 	
-## Banco Bancolombia
+### Banco Bancolombia
 
   - Correo electrónico <b>Servicioalclienteexito@grupo-exito.com</b>, <b>pespinos@bancolombia.com.co</b> y <b>requerinf@bancolombia.com.co</b>
 -------------
 <p id="BancoAvvillas">
 	
-## Banco AVVillas
+### Banco AVVillas
 
   - Correo electrónico <b>contactenos@bancoavvillas.com.co</b> y <b>embargoscaptacion@bancoavvillas.com.co</b>
 -------------
 <p id="BancoAgrario">
 	
-## Banco Agrario
+### Banco Agrario
 
   - Correo electrónico <b>sandrah.naranjo@bancoagrario.gov.co</b>
 -------------
 <p id="BancoPichincha">
 	
-## Banco Pichincha
+### Banco Pichincha
 
   - Correo electrónico <b>info@pichincha.com</b> y <b>banco@pichincha.com</b>
 -------------
 <p id="BancoCiti">
 	
-## Banco Citi
+### Banco Citi
 
   - Correo electrónico <b>contactenosciticolombia@citi.com</b>
 -------------
 <p id="Virgin">
 	
-## Virgin Mobile
+### Virgin Mobile
 
   - Correo electrónico <b>judicial@virginmobilecolombia.com</b>, <b>servicioalcliente@virginmobilecolombia.com</b> y <b>soporte@virginmobile.mx</b>
 -------------
 <p id="ETB">
 	
-## ETB
+### ETB
 
   - Correo electrónico <b>andrea.lopezl@etb.com.co</b> y <b>asuntos.contenciosos@etb.com.co</b>
 -------------
 <p id="Flash">
 	
-## Flash Mobile
+### Flash Mobile
 
   - Correo electrónico <b>Legales.bl@flashservicios.co</b> y <b>soporte.bl@flashservicios.co</b>
 -------------
@@ -307,109 +307,109 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 -------------
 <p id="Tuya">
 	
-## Tarjeta de Crédito Éxito - Tuya
+### Tarjeta de Crédito Éxito - Tuya
 
   - Correo electrónico <b>jcorreal@tuya.com.co</b>
 -------------
 <p id="GrupoExito">
 	
-## Grupo Éxito
+### Grupo Éxito
 
   - Correo electrónico <b>Servicioalclienteexito@grupo-exito.com</b>
 -------------
 <p id="Moviired">
 	
-## Moviired
+### Moviired
 
   - Correo electrónico <b>camila.baquero@moviired.co</b>
 -------------
 <p id="WesternUnion">
 	
-## Western Union - Giros y Finanzas - Acciones y Valores
+### Western Union - Giros y Finanzas - Acciones y Valores
 
   - Correo electrónico <b>contacto@girosyfinanzas.com</b> y <b>richard.maca@girosyfinanzas.com</b> y <b>servicioalcliente@accivalores.com</b>
 -------------
 <p id="GrupoMatrix">
 	
-## Grupo Matrix Giros y Servicios
+### Grupo Matrix Giros y Servicios
 
   - Correo electrónico <b>coordinacion.servicioalcliente@grupomatrix.co</b> y <b>(+57)(1)7431414</b> y <b>(+57) 3213005339</b> y <b>(+57) 3105794619</b> y <b>#596</b>
 -------------
 <p id="SuperGiros">
 	
-## Súper Giros
+### Súper Giros
 
   - Correo electrónico <b>callcenter@supergiros.com.co</b>
 -------------
 <p id="472">
 	
-## Empresa de Envíos 4-72
+### Empresa de Envíos 4-72
 
   - Correo electrónico <b>servicioalcliente@4-72.com.co</b> y <b>fernando.salgado@4-72.com.co</b> y <b>(+57)(1)4722005 Ext. 1816</b>
 -------------
 <p id="RedebanMulticolor">
 	
-## Redeban Multicolor
+### Redeban Multicolor
 
   - Correo electrónico <b>seguridaddelared@rbm.com.co</b> y <b>servicio.cliente@rbm.com.co</b>
 -------------
 <p id="Coomeva">
 	
-## EPS Coomeva
+### EPS Coomeva
 
   - Correo electrónico <b>operacionesepsejecafetero@coomeva.com.co</b>
 -------------
 <p id="EPSSura">
 	
-## EPS Sura
+### EPS Sura
 
   - Correo electrónico <b>atencionalclienteeps@epssura.com.co</b>
 -------------
 <p id="TransitoPereira">
 	
-## Transito Pereira
+### Transito Pereira
 
   - Correo electrónico <b>contactenos@transitopereira.gov.co</b>
 -------------
 <p id="Comfamiliar">
 	
-## Comfamiliar
+### Comfamiliar
 
   - Correo electrónico <b>info@comfamiliar.com.co</b> y <b>aportes@comfamiliar.com</b>
 -------------
 <p id="CentroServiciosJudicialesPereira">
 	
-## Centro de Servicios Judiciales de Pereira
+### Centro de Servicios Judiciales de Pereira
 
   - Correo electrónico <b>centrodeserviciosadmejecpenas@gmail.com</b> y teléfono <b>+036 7448858</b> y <b>+036 7442942</b>
 -------------
 <p id="JumboCencosub">
 	
-## Almacenes Jumbo - Cencosub
+### Almacenes Jumbo - Cencosub
 
   - Correo electrónico <b>notificaciones@cencosud.com.co</b>.
 -------------
 <p id="Falabella">
 	
-## Almacenes y Banco Falabella
+### Almacenes y Banco Falabella
 
   - Correo electrónico <b>ecolorado@altocolombia.com.co</b>.
 -------------
 <p id="SuRedSA">
 	
-## Su RED S.A.
+### Su RED S.A.
 
   - Correo electrónico <b>servicioalcliente@sured.com.co</b>.
 -------------
 <p id="Fedequinas">
 	
-## Fedequinas Colombia (Federación Colombiana de Asociaciones Equinas)
+### Fedequinas Colombia (Federación Colombiana de Asociaciones Equinas)
 
   - Correo electrónico <b>info@fedequinas.org</b> y <b>secretariaaux@fedequinas.org</b>.
 -------------
 <p id="ICA">
 	
-## ICA - Instituto Colombiano Agropecuario
+### ICA - Instituto Colombiano Agropecuario
 
   - Correo electrónico <b>contactenos@ica.gov.co</b>.
 -------------
