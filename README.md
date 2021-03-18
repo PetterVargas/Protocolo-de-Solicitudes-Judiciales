@@ -49,7 +49,7 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Grupo Éxito](#GrupoExito)
 * [Moviired](#Moviired)
 * [Western Union - Giros y Finanzas - Acciones y Valores ](#WesternUnion)
-* [Grupo Matrix](#GrupoMatrix)
+* [Grupo Matrix Giros y Servicios](#GrupoMatrix)
 * [Súper Giros](#SuperGiros)
 * [4-72](#472)
 * [Redeban Multicolor](#RedebanMulticolor)
@@ -58,6 +58,12 @@ Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Prov
 * [Transito Pereira](#TransitoPereira)
 * [Comfamiliar](#Comfamiliar)
 * [Centro de Servicos Judiciales de Pereira](#CentroServiciosJudicialesPereira)
+* [Jumbo Cencosub](#JunboCencosub)
+* [Falabella](#Falabella)
+* [Su Red S.A.](#SuRedSA)
+* [Fedequinas](#Fedequinas)
+* [Matrix Giros y Servicios](#MatrixGirosyServicios)
+* [ICA](#ICA)
 
 Este proyecto está en progreso, si tienes redes sociales, empresas de correo electrónico y Proveedores de Servicio de Internet - ISP que no están acá, nos puedes informar en peter.vargasg@gmail.com.
 
@@ -67,7 +73,8 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 
 ## Whatsapp
 
-  - Canal Requerimientos Judiciales de la Whatsapp se encuentra disponible el correo electrónico <b>WhatsAppLEC@subpoenasolutions.com</b>.
+  - Canal Requerimientos Judiciales de 
+  - Whatsapp, se realizan por la dirección de enlace  <b>https://www.whatsapp.com/records/login/</b>.
   - Solicitud dirigida a WhatsApp Inc, 1601 Willow Road, Menlo Park, California 94025, United States of América.
   - Whatsapp solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro).
   - Esta plataforma permite realizar solicitud de preservación de información.
@@ -77,7 +84,7 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 
 ## Facebook e Instagram
 
-  - Plataforma de Requerimientos Judiciales de la Red Social Facebook e Instagram se realizan por la dirección de enlace https://www.facebook.com/records
+  - Plataforma de Requerimientos Judiciales de la Red Social Facebook e Instagram, se realizan por la dirección de enlace https://www.facebook.com/records
   - La red social solo proporciona información referente a registros de conexión (Direcciones IP, Fechas de conexión y Datos de Registro)
   - Esta plataforma permite realizar solicitud de preservación de información.
   - Esta plataforma permite realizar solicitud de información.
@@ -197,9 +204,9 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 -------------
 <p id="Claro">
 	
-## Claro
+### Claro
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Claro <b>peticionesjudiciales@claro.com.co</b>
+  - Correo electrónico <b>peticionesjudiciales@claro.com.co</b>
 -------------
 <p id="Efecty">
 	
@@ -211,169 +218,200 @@ Este proyecto está en progreso, si tienes redes sociales, empresas de correo el
 	
 ## Tigo
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Tigo <b>notificacionesjudiciales@tigoune.com</b>, <b>radicacionexterna2@tigoune.com</b> y <b>auxiliar.operativo8@tigoune.com</b>
+  - Correo electrónico <b>notificacionesjudiciales@tigoune.com</b>, <b>radicacionexterna2@tigoune.com</b> y <b>auxiliar.operativo8@tigoune.com</b>.
+  - Dirección Cra. 48 #20-114 Bogotá D.C.
 -------------
 <p id="UNE">
 	
 ## UNE
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones UNE <b>notificacionesjudiciales@une.com.co</b>
+  - Correo electrónico <b>notificacionesjudiciales@une.com.co</b>
 -------------
 <p id="Movistar">
 	
 ## Movistar - Telefónica
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones Movistar <b>requerimientos.judiciales.co@telefonica.com</b> y <b>servicioenlinea.co@telefonica.com</b>
+  - Correo electrónico <b>requerimientos.judiciales.co@telefonica.com</b> y <b>servicioenlinea.co@telefonica.com</b>
 -------------
 <p id="UFF">
 	
 ## Uff Movile
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaciones UFF Movile <b>experiencia.cliente@uffmovil.com</b>
+  - Correo electrónico <b>experiencia.cliente@uffmovil.com</b>
 -------------
 <p id="Tigo">
 	
 ## OLX
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa OLX <b>support@olx.com</b>
+  - Correo electrónico <b>support@olx.com</b>
 -------------
 <p id="Servientrega">
 	
 ## Servientrega
 
-  - Correo electrónico para realizar requerimientos judiciales de Servientrega <b>servicioalcliente@servientrega.com</b>
+  - Correo electrónico <b>servicioalcliente@servientrega.com</b>
 -------------
 <p id="Bancolombia">
 	
 ## Banco Bancolombia
 
-  - Correo electrónico para realizar requerimientos judiciales de del Banco Bancolombia <b>Servicioalclienteexito@grupo-exito.com</b>, <b>pespinos@bancolombia.com.co</b> y <b>requerinf@bancolombia.com.co</b>
+  - Correo electrónico <b>Servicioalclienteexito@grupo-exito.com</b>, <b>pespinos@bancolombia.com.co</b> y <b>requerinf@bancolombia.com.co</b>
 -------------
 <p id="BancoAvvillas">
 	
 ## Banco AVVillas
 
-  - Correo electrónico para realizar requerimientos judiciales de del Banco AV Villas <b>contactenos@bancoavvillas.com.co</b> y <b>embargoscaptacion@bancoavvillas.com.co</b>
+  - Correo electrónico <b>contactenos@bancoavvillas.com.co</b> y <b>embargoscaptacion@bancoavvillas.com.co</b>
 -------------
 <p id="BancoAgrario">
 	
 ## Banco Agrario
 
-  - Correo electrónico para realizar requerimientos judiciales de del Banco Agrario <b>sandrah.naranjo@bancoagrario.gov.co</b>
+  - Correo electrónico <b>sandrah.naranjo@bancoagrario.gov.co</b>
 -------------
 <p id="BancoPichincha">
 	
 ## Banco Pichincha
 
-  - Correo electrónico para realizar requerimientos judiciales de del Banco Pichincha <b>info@pichincha.com</b> y <b>banco@pichincha.com</b>
+  - Correo electrónico <b>info@pichincha.com</b> y <b>banco@pichincha.com</b>
 -------------
 <p id="BancoCiti">
 	
 ## Banco Citi
 
-  - Correo electrónico para realizar requerimientos judiciales de del Banco Citi <b>contactenosciticolombia@citi.com</b>
+  - Correo electrónico <b>contactenosciticolombia@citi.com</b>
 -------------
 <p id="Virgin">
 	
 ## Virgin Mobile
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Virgin Moble <b>judicial@virginmobilecolombia.com</b>, <b>servicioalcliente@virginmobilecolombia.com</b> y <b>soporte@virginmobile.mx</b>
+  - Correo electrónico <b>judicial@virginmobilecolombia.com</b>, <b>servicioalcliente@virginmobilecolombia.com</b> y <b>soporte@virginmobile.mx</b>
 -------------
 <p id="ETB">
 	
 ## ETB
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones ETB <b>andrea.lopezl@etb.com.co</b> y <b>asuntos.contenciosos@etb.com.co</b>
+  - Correo electrónico <b>andrea.lopezl@etb.com.co</b> y <b>asuntos.contenciosos@etb.com.co</b>
 -------------
 <p id="Flash">
 	
 ## Flash Mobile
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Flash Mobile <b>soporte.bl@flashservicios.co</b>
+  - Correo electrónico <b>Legales.bl@flashservicios.co</b> y <b>soporte.bl@flashservicios.co</b>
 -------------
 <p id="Avantel">
 	
 ## Avantel
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de telecomunicaicones Avantel <b>contactenos@avantel.com.co</b>
+  - Correo electrónico <b>contactenos@avantel.com.co</b>
 -------------
 <p id="Tuya">
 	
 ## Tarjeta de Crédito Éxito - Tuya
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de Tarjeta de Crédito Éxito - Tuya <b>jcorreal@tuya.com.co</b>
+  - Correo electrónico <b>jcorreal@tuya.com.co</b>
 -------------
 <p id="GrupoExito">
 	
 ## Grupo Éxito
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa Grupo Éxito <b>Servicioalclienteexito@grupo-exito.com</b>
+  - Correo electrónico <b>Servicioalclienteexito@grupo-exito.com</b>
 -------------
 <p id="Moviired">
 	
 ## Moviired
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa Moviired <b>camila.baquero@moviired.co</b>
+  - Correo electrónico <b>camila.baquero@moviired.co</b>
 -------------
 <p id="WesternUnion">
 	
 ## Western Union - Giros y Finanzas - Acciones y Valores
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa Western Union - Giros y Finanzas - Acciones y Valores <b>contacto@girosyfinanzas.com</b> y <b>richard.maca@girosyfinanzas.com</b> y <b>servicioalcliente@accivalores.com</b>
+  - Correo electrónico <b>contacto@girosyfinanzas.com</b> y <b>richard.maca@girosyfinanzas.com</b> y <b>servicioalcliente@accivalores.com</b>
 -------------
 <p id="GrupoMatrix">
 	
-## Grupo Matrix
+## Grupo Matrix Giros y Servicios
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa Grupo Matrix <b>coordinacion.servicioalcliente@grupomatrix.co</b> y <b>(+57)(1)7431414</b> y <b>(+57) 3213005339</b> y <b>(+57) 3105794619</b> y <b>#596</b>
+  - Correo electrónico <b>coordinacion.servicioalcliente@grupomatrix.co</b> y <b>(+57)(1)7431414</b> y <b>(+57) 3213005339</b> y <b>(+57) 3105794619</b> y <b>#596</b>
 -------------
 <p id="SuperGiros">
 	
 ## Súper Giros
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa Súper Giros <b>callcenter@supergiros.com.co</b>
+  - Correo electrónico <b>callcenter@supergiros.com.co</b>
 -------------
 <p id="472">
 	
-## 4-72
+## Empresa de Envíos 4-72
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa 4-72 <b>servicioalcliente@4-72.com.co</b> y <b>fernando.salgado@4-72.com.co</b> y <b>(+57)(1)4722005 Ext. 1816</b>
+  - Correo electrónico <b>servicioalcliente@4-72.com.co</b> y <b>fernando.salgado@4-72.com.co</b> y <b>(+57)(1)4722005 Ext. 1816</b>
 -------------
 <p id="RedebanMulticolor">
 	
 ## Redeban Multicolor
 
-  - Correo electrónico para realizar requerimientos judiciales de la empresa de Redeban Multicolor <b>seguridaddelared@rbm.com.co</b> y <b>servicio.cliente@rbm.com.co</b>
+  - Correo electrónico <b>seguridaddelared@rbm.com.co</b> y <b>servicio.cliente@rbm.com.co</b>
 -------------
 <p id="Coomeva">
 	
 ## EPS Coomeva
 
-  - Correo electrónico para realizar requerimientos judiciales de la EPS Coomeva <b>operacionesepsejecafetero@coomeva.com.co</b>
+  - Correo electrónico <b>operacionesepsejecafetero@coomeva.com.co</b>
 -------------
 <p id="EPSSura">
 	
 ## EPS Sura
 
-  - Correo electrónico para realizar requerimientos judiciales de la EPS Sura <b>atencionalclienteeps@epssura.com.co</b>
+  - Correo electrónico <b>atencionalclienteeps@epssura.com.co</b>
 -------------
 <p id="TransitoPereira">
 	
 ## Transito Pereira
 
-  - Correo electrónico para realizar requerimientos judiciales de Transito Pereira <b>contactenos@transitopereira.gov.co</b>
+  - Correo electrónico <b>contactenos@transitopereira.gov.co</b>
 -------------
 <p id="Comfamiliar">
 	
 ## Comfamiliar
 
-  - Correo electrónico para realizar requerimientos judiciales de Comfamiliar <b>info@comfamiliar.com.co</b> y <b>aportes@comfamiliar.com</b>
+  - Correo electrónico <b>info@comfamiliar.com.co</b> y <b>aportes@comfamiliar.com</b>
 -------------
 <p id="CentroServiciosJudicialesPereira">
 	
 ## Centro de Servicios Judiciales de Pereira
 
-  - Correo electrónico para realizar requerimientos judiciales al Centro de Servicios Judiciales de Pereira <b>centrodeserviciosadmejecpenas@gmail.com</b> y teléfono <b>+036 7448858</b> y <b>+036 7442942</b>
+  - Correo electrónico <b>centrodeserviciosadmejecpenas@gmail.com</b> y teléfono <b>+036 7448858</b> y <b>+036 7442942</b>
+-------------
+<p id="JumboCencosub">
+	
+## Almacenes Jumbo - Cencosub
+
+  - Correo electrónico <b>notificaciones@cencosud.com.co</b>.
+-------------
+<p id="Falabella">
+	
+## Almacenes y Banco Falabella
+
+  - Correo electrónico <b>ecolorado@altocolombia.com.co</b>.
+-------------
+<p id="SuRedSA">
+	
+## Su RED S.A.
+
+  - Correo electrónico <b>servicioalcliente@sured.com.co</b>.
+-------------
+<p id="Fedequinas">
+	
+## Fedequinas Colombia (Federación Colombiana de Asociaciones Equinas)
+
+  - Correo electrónico <b>info@fedequinas.org</b> y <b>secretariaaux@fedequinas.org</b>.
+-------------
+<p id="ICA">
+	
+## ICA - Instituto Colombiano Agropecuario
+
+  - Correo electrónico <b>contactenos@ica.gov.co</b>.
 -------------
 <p id="Argentina">
 	
