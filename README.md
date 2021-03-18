@@ -1,4 +1,4 @@
-# Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico e ISP
+# Protocolo de Solicitudes Judiciales
 _Conoce más de nuestros proyectos en [Peter Vargas](https://petervargas.com):_
 
 Protocolo de Solicitudes Judiciales a Redes Sociales, Correo Electrónico y Proveedores de Servicio de Internet - ISP. Para adelantar cualquier trámite es necesaria la orden de autoridad competente, en Colombia, se requiere orden de la <b>Fiscalía General de la Nación</b>, autorización por parte de <b>Juez con Funciones de Control de Garantías (Búsqueda Selectiva en Base de Datos)</b> y <b>comunicación oficial suscrita por un funcionario de Policía Judicial</b>, todos los documentos anteriormente descritos deben estar firmados, escaneados y estar adjuntos a la solicitud.
